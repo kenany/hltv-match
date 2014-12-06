@@ -1,6 +1,6 @@
 {
   "name": "hltv-match",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse HLTV match page",
   "keywords": [
     "counter-strike"
